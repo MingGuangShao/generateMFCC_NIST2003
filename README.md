@@ -1,0 +1,2 @@
+# generateMFCC_NIST2003
+MATLAB:主要是提取NIST2003说话人识别数据集 梅尔倒谱系数，其中一些代码用到了matlab voicebox工具箱。
